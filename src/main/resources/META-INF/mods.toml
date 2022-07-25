@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+[[mods]]
+modId="vape119"
+version="0.1"
+displayName="vape"
+description='''
+
+'''
+[[dependencies.thaumcraft]]
+   modId="forge"
+   mandatory=true
+   versionRange="[36,)"
+   ordering="NONE"
+   side="BOTH"
+[[dependencies.thaumcraft]]
+   modId="minecraft"
+   mandatory=true
+   versionRange="[1.16.5,1.17)"
+   ordering="NONE"
+   side="BOTH"
